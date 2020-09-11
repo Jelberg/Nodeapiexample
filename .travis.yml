@@ -1,6 +1,6 @@
 language: node_js
 deploy:
   provider: heroku
-  api_key: 00046275-19b5-4671-a0e8-8fb177003efa
+  api_key: "00046275-19b5-4671-a0e8-8fb177003efa"
   app: node-api-example-heroku
   test: off
